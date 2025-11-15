@@ -1,4 +1,4 @@
-# 🎬 Movie Data Cleaning & Correlation Project
+# 🎬 Movie Data Cleaning & Correlation Project (Python)
 
 Welcome to the **Movie Data Cleaning & Correlation Project** repository! 🚀  
 This project demonstrates a complete **workflow for cleaning and preparing movie data** using **Python**. Built as a **portfolio project**, it emphasizes best practices in **data cleaning, transformation, and correlation analysis**.
@@ -37,11 +37,9 @@ The key components of this project include:
 ## 📂 Repository Structure
 
     python-movie-correlation
-    │
-    ├──  movies.csv       
-    │       
-    ├──  Movie Gross Correlation Project.ipynb            
-    │            
+    
+    ├──  movies.csv        
+    ├──  Movie Gross Correlation Project.ipynb                      
     └── README.md           
 
 ---
